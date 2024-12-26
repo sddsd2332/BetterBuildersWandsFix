@@ -1,5 +1,6 @@
 package com.xinyihl.betterbuilderswandsfix;
 
+import com.xinyihl.betterbuilderswandsfix.betterbuilderswandsfix.Tags;
 import com.xinyihl.betterbuilderswandsfix.common.CommonProxy;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.SidedProxy;
